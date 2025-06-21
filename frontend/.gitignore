@@ -1,0 +1,374 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production build
+/build
+/dist
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Vite specific
+dist-ssr
+*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary folders
+tmp/
+temp/
+
+# Package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Deployment
+.vercel
+.netlify
+
+# Storybook build outputs
+storybook-static
+
+# Cypress
+cypress/videos
+cypress/screenshots
+cypress/downloads
+
+# Jest
+coverage/
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettierignore
+
+# Tailwind CSS
+.tailwindcss
+
+# PostCSS
+.postcssrc
+
+# Webpack
+webpack-stats.json
+
+# Bundle analyzer
+bundle-analyzer-report.html
+
+# Source maps (if you don't want to include them)
+*.map
+
+# Service worker
+sw.js
+workbox-*.js
+
+# PWA
+manifest.json
+
+# Favicon files (if generated)
+favicon-*.png
+apple-touch-icon*.png
+mstile-*.png
+safari-pinned-tab.svg
+
+# Sitemap
+sitemap.xml
+robots.txt
+
+# Analytics
+.analytics/
+
+# Performance monitoring
+.lighthouse/
+
+# A/B testing
+.optimizely/
+
+# Error tracking
+.sentry/
+
+# Hot reload
+.hot-update.json
+*.hot-update.js
+
+# Webpack dev server
+.webpack/
+
+# Rollup
+.rollup.cache/
+
+# Parcel
+.parcel-cache/
+
+# SWC
+.swc/
+
+# Turbo
+.turbo/
+
+# Local development
+.local/
+
+# Mock data
+mock-data/
+mocks/
+
+# Test fixtures
+fixtures/
+__fixtures__/
+
+# Snapshots
+__snapshots__/
+
+# E2E tests
+e2e/results/
+e2e/screenshots/
+e2e/videos/
+
+# Visual regression testing
+visual-regression/
+
+# Chromatic
+chromatic-build/
+
+# Design tokens
+design-tokens/
+
+# Assets (if large or generated)
+assets/large/
+assets/generated/
+
+# Fonts (if not needed in repo)
+fonts/
+
+# Images (if large or generated)
+images/large/
+images/generated/
+
+# Videos (if large)
+videos/
+
+# Audio files
+audio/
+
+# 3D models
+models/
+
+# Documentation
+docs/
+documentation/
+
+# Changelog
+CHANGELOG.md
+
+# License
+LICENSE
+
+# Contributing guidelines
+CONTRIBUTING.md
+
+# Code of conduct
+CODE_OF_CONDUCT.md
+
+# Security policy
+SECURITY.md
+
+# Issue templates
+.github/ISSUE_TEMPLATE/
+
+# Pull request templates
+.github/PULL_REQUEST_TEMPLATE/
+
+# GitHub workflows (if not needed)
+.github/workflows/
+
+# Dependabot
+.github/dependabot.yml
+
+# Renovate
+renovate.json
+
+# Husky
+.husky/
+
+# Lint-staged
+.lintstagedrc
+
+# Commitizen
+.czrc
+
+# Semantic release
+.releaserc
+
+# Standard version
+.versionrc
+
+# Auto-changelog
+.auto-changelog
+
+# All-contributors
+.all-contributorsrc
+
+# Badges
+badges/
+
+# Shields
+shields/
+
+# Social media
+social/
+
+# Marketing
+marketing/
+
+# Presentations
+presentations/
+
+# Demos
+demos/
+
+# Examples
+examples/
+
+# Tutorials
+tutorials/
+
+# Workshops
+workshops/
+
+# Courses
+courses/
+
+# Books
+books/
+
+# Papers
+papers/
+
+# Research
+research/
+
+# Experiments
+experiments/
+
+# Prototypes
+prototypes/
+
+# Sketches
+sketches/
+
+# Wireframes
+wireframes/
+
+# Mockups
+mockups/
+
+# Designs
+designs/
+
+# Branding
+branding/
+
+# Style guides
+style-guides/
+
+# Pattern libraries
+pattern-libraries/
+
+# Component libraries
+component-libraries/
+
+# Design systems
+design-systems/
